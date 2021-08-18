@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<!-- Table data -->
+	<GameOptions>
+		<Row>
+			<Type>GAMEOPTION_NO_LEAGUES</Type>
+			<Description>TXT_KEY_GAME_OPTION_NO_LEAGUES</Description>
+			<Help>TXT_KEY_GAME_OPTION_NO_LEAGUES_HELP</Help>
+			<Visible>0</Visible>
+		</Row>
+    <Row>
+      <Type>GAMEOPTION_NO_CULTURE_OVERVIEW_UI</Type>
+      <Description>TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI</Description>
+      <Help>TXT_KEY_GAME_OPTION_NO_CULTURE_OVERVIEW_UI_HELP</Help>
+      <Visible>0</Visible>
+    </Row>
+	</GameOptions>
+</GameData>
