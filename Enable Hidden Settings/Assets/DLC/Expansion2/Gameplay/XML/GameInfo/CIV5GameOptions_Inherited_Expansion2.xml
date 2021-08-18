@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<!-- Table data -->
+	<GameOptions>
+		<InsertOrAbort>
+			<Type>GAMEOPTION_NO_RELIGION</Type>
+			<Description>TXT_KEY_GAME_OPTION_NO_RELIGION</Description>
+			<Help>TXT_KEY_GAME_OPTION_NO_RELIGION_HELP</Help>
+			<Visible>1</Visible>
+		</InsertOrAbort>
+    <InsertOrAbort>
+      <Type>GAMEOPTION_NO_ESPIONAGE</Type>
+      <Description>TXT_KEY_GAME_OPTION_NO_ESPIONAGE</Description>
+      <Help>TXT_KEY_GAME_OPTION_NO_ESPIONAGE_HELP</Help>
+    </InsertOrAbort>
+  </GameOptions>
+</GameData>
