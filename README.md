@@ -1,5 +1,5 @@
 ![header](https://i.ibb.co/SvBc4GN/header.png)<br>
-PC Windows game (..) Civilization 5 Modification , which tweaks annoying things ..
+(..) Civilization 5 Modification , which removes annoying things ..
 <hr>
 IF YOU HAVE SLOW SPEED NETWORK PLEASE BACK UP GAME <i style="color:Red!important;">"JUST IN CASE(TM)"</i>
 <hr>
@@ -21,9 +21,6 @@ MOD COMPABILITY:<br>
 so for this time , then solution will be found 4 tooltips -- enable/disable won't be released yet for tooltips..</strike><br>
 <br>
 For now no complains with mods combability..<br>
-<hr>
-ISSUES:<br>
-<i>"FOUND PANTHEON"</i> causes game to crash..<br>
 <hr>
 MISC:<br>
 Debugging settings (in Documents) will be attached..<br>
