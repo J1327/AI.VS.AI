@@ -22,6 +22,9 @@ so for this time , then solution will be found 4 tooltips -- enable/disable won'
 <br>
 For now no complains with mods combability..<br>
 <hr>
+ISSUES:<br>
+<i>"FOUND PANTHEON"</i> causes game to crash..<br>
+<hr>
 MISC:<br>
 Debugging settings (in Documents) will be attached..<br>
 <hr>
