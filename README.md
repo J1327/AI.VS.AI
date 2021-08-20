@@ -26,7 +26,7 @@ MISC:<br>
 Debugging settings (in Documents) will be attached..<br>
 <hr>
 RESULT:<br>
-![header](https://i.ibb.co/HYh9KPj/output.gif)<br>
+![img](https://i.ibb.co/HYh9KPj/output.gif)
 <hr>
 <hr>
 colb. experimental
