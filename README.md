@@ -28,6 +28,8 @@ Debugging settings (in Documents) will be attached..<br>
 <br><br>
 > DEFAULT:
 
+[Example](https://s9.gifyu.com/images/1200-2.gif)
+
 ![loop1](https://s9.gifyu.com/images/1200-2.gif)
 > RESULT:
 
