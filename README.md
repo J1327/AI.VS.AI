@@ -26,9 +26,16 @@ For now no complains with mods combability..<br>
 MISC:<br>
 Debugging settings (in Documents) will be attached..<br>
 <br><br>
-RESULT:<br>
+> DEFAULT:
+
+![result](https://s9.gifyu.com/images/1200-2.gif)
+> RESULT:
+
+![result](https://s6.gifyu.com/images/1200.gif)
 <br><br>
-![result](https://s6.gifyu.com/images/1200.gif)<br>
-<br><br>
-colb. experimental
+
+
+![result](https://s9.gifyu.com/images/shell.png)
+
+
 <br><br>
