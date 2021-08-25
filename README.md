@@ -1,4 +1,4 @@
-![result](https://i.ibb.co/SvBc4GN/header.png)<br>
+![header](https://i.ibb.co/SvBc4GN/header.png)<br>
 (..) Civilization 5 Modification , which removes annoying things ..<br>
 <br>
 IF YOU HAVE SLOW SPEED NETWORK PLEASE BACK UP GAME <i style="color:Red!important;">"JUST IN CASE(TM)"</i>
@@ -28,14 +28,14 @@ Debugging settings (in Documents) will be attached..<br>
 <br><br>
 > DEFAULT:
 
-![result](https://s9.gifyu.com/images/1200-2.gif)
+![loop1](https://s9.gifyu.com/images/1200-2.gif)
 > RESULT:
 
-![result](https://s6.gifyu.com/images/1200.gif)
+![loop2](https://s6.gifyu.com/images/1200.gif)
 <br><br>
 
 
-![result](https://s9.gifyu.com/images/shell.png)
+![colb](https://s9.gifyu.com/images/shell.png)
 
 
 <br><br>
