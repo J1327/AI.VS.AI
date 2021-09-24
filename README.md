@@ -1,11 +1,10 @@
-![header](https://i.ibb.co/SvBc4GN/header.png)<br>
 (..) Civilization 5 Modification , which removes annoying things ..<br>
 <br>
 IF YOU HAVE SLOW SPEED NETWORK PLEASE BACK UP GAME <i style="color:Red!important;">"JUST IN CASE(TM)"</i>
 <br><br>
 EACH MOD UPLOAD/RE-UPLOAD REQUIRES RESTART THE GAME TO HAVE EVERYTHING LOADED UP ..
 <br><br>
-WHY *&^? DIPLOMACY:<br>
+WHY NO DIPLOMACY:<br>
 * Ticking this ------ > [X] DIPLOMACY in setup , later on in the middle of the game you won't be able to press button "next turn"  (even in the settings are ticked SP/MP End turn automatically) because you are forced to vote there and this mod changes congress by trying to skip it..<br>
  so..<br>
 * marking this override --- > "disable world congress" obviously disables this victory type and solves the problem.. <br>
